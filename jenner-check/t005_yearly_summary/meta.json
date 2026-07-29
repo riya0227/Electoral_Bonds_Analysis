@@ -1,0 +1,8 @@
+{
+  "bundle": "t005_yearly_summary",
+  "source_file": "Electoral_Bonds_Analysis.sas",
+  "source_lines": "87-124",
+  "source_blob_sha": "4bccd92c1fa696bd68ddf75a76b9ae4a8a0fe051",
+  "source_commit": "3d0b18ed6a9816ae598d1697e8dc30921e2c33ab",
+  "notes": "compress()+input() to numeric, year(Date_of_Encashment) grouping via PROC SQL, formatted PROC PRINT. Mock WORK.reedemer (15 rows, real SAS dates) replaces the xlsx PROC IMPORT so year() yields real years."
+}

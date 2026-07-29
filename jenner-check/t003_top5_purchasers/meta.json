@@ -1,0 +1,8 @@
+{
+  "bundle": "t003_top5_purchasers",
+  "source_file": "Electoral_Bonds_Analysis.sas",
+  "source_lines": "27-52",
+  "source_blob_sha": "4bccd92c1fa696bd68ddf75a76b9ae4a8a0fe051",
+  "source_commit": "3d0b18ed6a9816ae598d1697e8dc30921e2c33ab",
+  "notes": "PROC SQL per-purchaser total, PROC SORT descending, obs=5 DATA step, PROC SGPLOT vbar. Mock WORK.mydata (17 rows) replaces the xlsx PROC IMPORT; SGPLOT emits sgplot.png/svg."
+}

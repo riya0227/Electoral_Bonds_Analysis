@@ -1,0 +1,22 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA reedemer
+
+NOTE: Processing inline DATALINES (15 lines)
+
+NOTE: Read 15 rows from DATALINES.
+NOTE: Wrote reedemer (15 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: Output dataset Party_Frequency has 8 observations and 2 variables.
+NOTE: ODS plot written: freq_name_of_the_political_party.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: PROC SORT data=Party_Frequency
+
+NOTE: Read 8 rows from Party_Frequency.
+NOTE: Wrote Party_Frequency (8 rows, 2 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC PRINT data=Party_Frequency
+
+NOTE: PROC PRINT completed: 8 observations printed, 2 variables

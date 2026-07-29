@@ -1,0 +1,12 @@
+                                        Purchaser Summary - Total Denominations
+
+  Obs                                 Purchaser_Name  Total_Denominations
+    1  FUTURE GAMING AND HOTEL SERVICES PR                   ₹3,10,00,000
+    2  MEGHA ENGINEERING AND INFRASTRUCTURES LIMITED         ₹2,10,00,000
+    3  QWIKSUPPLYCHAINPRIVATELIMITED                         ₹2,00,00,000
+    4  HALDIA ENERGY LIMITED                                 ₹1,10,00,000
+    5  ESSEL MINING AND INDS LTD                             ₹1,00,00,000
+    6  VEDANTA LIMITED                                         ₹11,00,000
+    7  A B C INDIA LIMITED                                     ₹11,00,000
+    8  MKJ ENTERPRISES LIMITED                                 ₹10,00,000
+

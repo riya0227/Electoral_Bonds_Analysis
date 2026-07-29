@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_purchaser_summary_sql",
+  "source_file": "Electoral_Bonds_Analysis.sas",
+  "source_lines": "11-38",
+  "source_blob_sha": "4bccd92c1fa696bd68ddf75a76b9ae4a8a0fe051",
+  "source_commit": "3d0b18ed6a9816ae598d1697e8dc30921e2c33ab",
+  "notes": "PROC FORMAT rupee picture + PROC SQL sum(input(Denominations,comma12.)) per purchaser + formatted PROC PRINT. Mock WORK.mydata (17 rows) replaces the xlsx PROC IMPORT."
+}

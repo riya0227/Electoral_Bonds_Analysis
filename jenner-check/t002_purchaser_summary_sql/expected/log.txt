@@ -1,0 +1,20 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA mydata
+
+NOTE: Processing inline DATALINES (17 lines)
+
+NOTE: Read 17 rows from DATALINES.
+NOTE: Wrote mydata (17 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FORMAT library=WORK
+
+NOTE: PICTURE INR_FORMAT defined (9 ranges)
+NOTE: PROC SQL 
+
+NOTE: Table work.Purchaser_Summary created.
+NOTE: PROC SQL statement used.
+NOTE: PROC PRINT data=Purchaser_Summary
+
+NOTE: PROC PRINT completed: 8 observations printed, 2 variables

@@ -1,0 +1,24 @@
+                                                   The FREQ Procedure
+
+Name_of_the_Political_Party                 Frequency
+------------------------------------------------------
+AAM AADMI PARTY                                     1
+ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM            1
+ALL INDIA TRINAMOOL CONGRESS                        3
+BHARAT RASHTRA SAMITHI                              2
+BHARATIYA JANATA PARTY                              4
+BIJU JANATA DAL                                     1
+DRAVIDA MUNNETRA KAZHAGAM (DMK)                     1
+PRESIDENT, ALL INDIA CONGRESS COMMITTEE             2
+                                                   Party Bond Counts
+
+  Obs               Name_of_the_Political_Party  COUNT
+    1  BHARATIYA JANATA PARTY                        4
+    2  ALL INDIA TRINAMOOL CONGRESS                  3
+    3  BHARAT RASHTRA SAMITHI                        2
+    4  PRESIDENT, ALL INDIA CONGRESS COMMITTEE       2
+    5  AAM AADMI PARTY                               1
+    6  ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM      1
+    7  BIJU JANATA DAL                               1
+    8  DRAVIDA MUNNETRA KAZHAGAM (DMK)               1
+

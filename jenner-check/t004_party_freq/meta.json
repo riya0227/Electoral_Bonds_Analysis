@@ -1,0 +1,8 @@
+{
+  "bundle": "t004_party_freq",
+  "source_file": "Electoral_Bonds_Analysis.sas",
+  "source_lines": "60-71",
+  "source_blob_sha": "4bccd92c1fa696bd68ddf75a76b9ae4a8a0fe051",
+  "source_commit": "3d0b18ed6a9816ae598d1697e8dc30921e2c33ab",
+  "notes": "PROC FREQ with out= dataset counting bonds per political party, PROC SORT by count, PROC PRINT. Mock WORK.reedemer (15 rows) replaces the xlsx PROC IMPORT with a representative sample of the redeemer workbook."
+}

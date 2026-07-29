@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-29T09:26:04.948707+00:00",
+  "_captured_run_id": "r_989bd256241b42599942b6715bf2f185",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PICTURE INR_FORMAT defined (9 ranges)",
+    "NOTE: Table Yearly_Summary created.",
+    "NOTE: PROC PRINT completed: 3 observations printed, 2 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

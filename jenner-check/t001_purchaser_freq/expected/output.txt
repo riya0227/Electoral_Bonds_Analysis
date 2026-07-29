@@ -1,0 +1,12 @@
+                                                   The FREQ Procedure
+
+Name_of_the_Purchaser                            Frequency
+-----------------------------------------------------------
+A B C INDIA LIMITED                                      2
+ESSEL MINING AND INDS LTD                                1
+FUTURE GAMING AND HOTEL SERVICES PR                      4
+HALDIA ENERGY LIMITED                                    2
+MEGHA ENGINEERING AND INFRASTRUCTURES LIMITED            3
+MKJ ENTERPRISES LIMITED                                  1
+QWIKSUPPLYCHAINPRIVATELIMITED                            2
+VEDANTA LIMITED                                          2
